@@ -3,7 +3,6 @@
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
-<title>Eric Marques Bighi - Desenvolvedor .NET</title>
 <style>
   body {
     background-color: #1e1e1e;
