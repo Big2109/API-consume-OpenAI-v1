@@ -3,38 +3,6 @@
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
-<style>
-  body {
-    background-color: #1e1e1e;
-    color: white;
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    text-align: center;
-    padding: 29px;
-  }
-  h1, h3 {
-    margin-bottom: 20px;
-  }
-  p, li {
-    color: white;
-  }
-  ul {
-    list-style: none;
-    padding-left: 0;
-  }
-  .badges img {
-    margin: 5px;
-  }
-  .social img {
-    margin: 5px;
-  }
-  .section {
-    margin: 45px 0;
-  }
-  a {
-    text-decoration: none;
-  }
-</style>
 </head>
 <body>
 
